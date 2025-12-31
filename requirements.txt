@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 pandas==2.1.1
 seaborn==0.13.0
 matplotlib==3.8.0
 numpy==1.26.0
 scikit-learn==1.3.2
 streamlit==1.30.0
+=======
+pandas==2.1.1
+seaborn==0.13.0
+matplotlib==3.8.0
+numpy==1.26.0
+scikit-learn==1.3.2
+streamlit==1.30.0
+>>>>>>> c275d0c969fa16a1272939281de0be20067e80d3
 plotly==5.18.0
